@@ -1,0 +1,12 @@
+C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.Core.EF\bin\Debug\netstandard2.0\AcademyG.Week6.Test.Core.EF.deps.json
+C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.Core.EF\bin\Debug\netstandard2.0\AcademyG.Week6.Test.Core.EF.dll
+C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.Core.EF\bin\Debug\netstandard2.0\AcademyG.Week6.Test.Core.EF.pdb
+C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.Core.EF\bin\Debug\netstandard2.0\AcademyG.Week6.Test.Core.dll
+C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.Core.EF\bin\Debug\netstandard2.0\AcademyG.Week6.Test.Core.pdb
+C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.Core.EF\obj\Debug\netstandard2.0\AcademyG.Week6.Test.Core.EF.csproj.AssemblyReference.cache
+C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.Core.EF\obj\Debug\netstandard2.0\AcademyG.Week6.Test.Core.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.Core.EF\obj\Debug\netstandard2.0\AcademyG.Week6.Test.Core.EF.AssemblyInfoInputs.cache
+C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.Core.EF\obj\Debug\netstandard2.0\AcademyG.Week6.Test.Core.EF.AssemblyInfo.cs
+C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.Core.EF\obj\Debug\netstandard2.0\AcademyG.Week6.Test.Core.EF.csproj.CoreCompileInputs.cache
+C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.Core.EF\obj\Debug\netstandard2.0\AcademyG.Week6.Test.Core.EF.dll
+C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.Core.EF\obj\Debug\netstandard2.0\AcademyG.Week6.Test.Core.EF.pdb

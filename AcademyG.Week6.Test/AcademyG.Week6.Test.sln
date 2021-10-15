@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcademyG.Week6.Test.Core", "AcademyG.Week6.Test.Core\AcademyG.Week6.Test.Core.csproj", "{56791D9E-A4BD-4A1E-9F8A-541100144C5B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcademyG.Week6.Test.Core.EF", "AcademyG.Week6.Test.Core.EF\AcademyG.Week6.Test.Core.EF.csproj", "{C3BA3400-8E31-4AD7-90A8-41A99C208E46}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcademyG.Week6.Test.WebAPI", "AcademyG.Week6.Test.WebAPI\AcademyG.Week6.Test.WebAPI.csproj", "{CFF0CBE7-67E0-41F3-925C-EFEE92413965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyG.Week6.Test.WCF", "AcademyG.Week6.Test.WCF\AcademyG.Week6.Test.WCF.csproj", "{8280FAB1-751E-4FAB-9F63-AB2FECC8F712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyG.Week6.Test.SelfHostingWCF", "AcademyG.Week6.Test.SelfHostingWCF\AcademyG.Week6.Test.SelfHostingWCF.csproj", "{75D0512C-CEEE-49F3-BBEB-9CBC0AA22B03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56791D9E-A4BD-4A1E-9F8A-541100144C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56791D9E-A4BD-4A1E-9F8A-541100144C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56791D9E-A4BD-4A1E-9F8A-541100144C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56791D9E-A4BD-4A1E-9F8A-541100144C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3BA3400-8E31-4AD7-90A8-41A99C208E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3BA3400-8E31-4AD7-90A8-41A99C208E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3BA3400-8E31-4AD7-90A8-41A99C208E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3BA3400-8E31-4AD7-90A8-41A99C208E46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF0CBE7-67E0-41F3-925C-EFEE92413965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF0CBE7-67E0-41F3-925C-EFEE92413965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF0CBE7-67E0-41F3-925C-EFEE92413965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF0CBE7-67E0-41F3-925C-EFEE92413965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8280FAB1-751E-4FAB-9F63-AB2FECC8F712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8280FAB1-751E-4FAB-9F63-AB2FECC8F712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8280FAB1-751E-4FAB-9F63-AB2FECC8F712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8280FAB1-751E-4FAB-9F63-AB2FECC8F712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75D0512C-CEEE-49F3-BBEB-9CBC0AA22B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D0512C-CEEE-49F3-BBEB-9CBC0AA22B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D0512C-CEEE-49F3-BBEB-9CBC0AA22B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D0512C-CEEE-49F3-BBEB-9CBC0AA22B03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5235057-AA40-424B-9161-020DA4E4AEEE}
+	EndGlobalSection
+EndGlobal
