@@ -20,6 +20,7 @@ namespace AcademyG.Week6.Test.Core.Entities
         [DataMember]
         public string LastName { get; set; }
 
+        [DataMember]
         public List<Order> Orders { get; set; }
     }
 }

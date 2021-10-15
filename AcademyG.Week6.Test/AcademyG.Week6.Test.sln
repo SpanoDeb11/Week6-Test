@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyG.Week6.Test.WCF", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyG.Week6.Test.SelfHostingWCF", "AcademyG.Week6.Test.SelfHostingWCF\AcademyG.Week6.Test.SelfHostingWCF.csproj", "{75D0512C-CEEE-49F3-BBEB-9CBC0AA22B03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyG.Week6.Test.Client", "AcademyG.Week6.Test.Client\AcademyG.Week6.Test.Client.csproj", "{55D1B9C8-51A5-4857-974E-20F7587524CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{75D0512C-CEEE-49F3-BBEB-9CBC0AA22B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75D0512C-CEEE-49F3-BBEB-9CBC0AA22B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75D0512C-CEEE-49F3-BBEB-9CBC0AA22B03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D1B9C8-51A5-4857-974E-20F7587524CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D1B9C8-51A5-4857-974E-20F7587524CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D1B9C8-51A5-4857-974E-20F7587524CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D1B9C8-51A5-4857-974E-20F7587524CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

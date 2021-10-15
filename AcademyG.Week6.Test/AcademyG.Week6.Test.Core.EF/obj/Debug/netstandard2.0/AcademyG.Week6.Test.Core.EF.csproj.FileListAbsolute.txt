@@ -8,5 +8,6 @@ C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.W
 C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.Core.EF\obj\Debug\netstandard2.0\AcademyG.Week6.Test.Core.EF.AssemblyInfoInputs.cache
 C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.Core.EF\obj\Debug\netstandard2.0\AcademyG.Week6.Test.Core.EF.AssemblyInfo.cs
 C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.Core.EF\obj\Debug\netstandard2.0\AcademyG.Week6.Test.Core.EF.csproj.CoreCompileInputs.cache
+C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.Core.EF\obj\Debug\netstandard2.0\AcademyG.Week6.Test.Core.EF.csproj.CopyComplete
 C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.Core.EF\obj\Debug\netstandard2.0\AcademyG.Week6.Test.Core.EF.dll
 C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.Core.EF\obj\Debug\netstandard2.0\AcademyG.Week6.Test.Core.EF.pdb

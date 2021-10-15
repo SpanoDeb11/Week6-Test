@@ -26,6 +26,7 @@ namespace AcademyG.Week6.Test.Core.Entities
         [DataMember]
         public int ClientId { get; set; }
 
+        [DataMember]
         public Client Client { get; set; }
     }
 }

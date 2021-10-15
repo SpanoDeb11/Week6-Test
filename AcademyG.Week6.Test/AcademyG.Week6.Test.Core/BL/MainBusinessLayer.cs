@@ -123,6 +123,12 @@ namespace AcademyG.Week6.Test.Core.BL
             if (order == null)
                 return false;
 
+            var item = this._orderRepository.GetById(order.Id);
+            if (item == null)
+                return false;
+
+            order.ClientId = item.ClientId;
+
             return this._orderRepository.Update(order);
         }
 

@@ -1,3 +1,4 @@
+C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.WCF\bin\Debug\appsettings.json
 C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.WCF\bin\Debug\AcademyG.Week6.Test.WCF.dll.config
 C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.WCF\bin\Debug\AcademyG.Week6.Test.WCF.dll
 C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.WCF\bin\Debug\AcademyG.Week6.Test.WCF.pdb
@@ -107,4 +108,3 @@ C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.W
 C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.WCF\obj\Debug\AcademyG.Week6.Test.WCF.csproj.CoreCompileInputs.cache
 C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.WCF\obj\Debug\AcademyG.Week6.Test.WCF.dll
 C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.WCF\obj\Debug\AcademyG.Week6.Test.WCF.pdb
-C:\Users\debora.spano\Desktop\AcademyG.Week6.Test\AcademyG.Week6.Test\AcademyG.Week6.Test.WCF\bin\Debug\appsettings.json
